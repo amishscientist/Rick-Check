@@ -1,0 +1,17 @@
+User Trick version|Location
+OS|compiler ver|glibc ver|asan|tsan|any other checks
+
+Self Test
+
+Trick Table
+Trick Version|Configure|Build Trick|Build Sim|Build Sim Exit
+
+Run Name
+Run Table
+Org Values
+Trick Ver|Dash d|Run exit condition|Run sim time| run exit code | pre | post | end | trk | csv
+
+Trick Diag
+Head SH1
+Coverage
+asan|tsan|fort source
